@@ -48,24 +48,20 @@
 
 **Selenium based UI Testing**
 
-1.Tutorial and documentation
+1. Tutorial and documentation [http://selenium-python.readthedocs.org/](http://selenium-python.readthedocs.org/)
 
-[http://selenium-python.readthedocs.org/](http://selenium-python.readthedocs.org/)
+2. A simple example [http://agiliq.com/blog/2014/09/selenium-testing/](http://agiliq.com/blog/2014/09/selenium-testing/)
 
-2.A simple example
+3. Official documentation [http://www.seleniumhq.org/docs/](http://www.seleniumhq.org/docs/)
 
-[http://agiliq.com/blog/2014/09/selenium-testing/](http://agiliq.com/blog/2014/09/selenium-testing/)
 
-3.Official documentation
-
-[http://www.seleniumhq.org/docs/](http://www.seleniumhq.org/docs/)
-
-**Django test**
+**Django testing**
 
 1. Simple tutorial [https://docs.djangoproject.com/en/1.8/intro/tutorial05/](https://docs.djangoproject.com/en/1.8/intro/tutorial05/)
+
 2. A bit outdated but a good tutorial [http://www.tdd-django-tutorial.com/](http://www.tdd-django-tutorial.com/)
 
-3.Official documentation(must read) [https://docs.djangoproject.com/en/1.8/topics/testing/](https://docs.djangoproject.com/en/1.8/topics/testing/)
+3. Official documentation(must read) [https://docs.djangoproject.com/en/1.8/topics/testing/](https://docs.djangoproject.com/en/1.8/topics/testing/)
 
 **Django Rest API Testing**
 
@@ -75,14 +71,10 @@
 
 3. REST Api Design [http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)
 
-Advanced
+# Advanced Python
 
-**Python**
+1. [http://www.diveintopython.net/toc/index.html](http://www.diveintopython.net/toc/index.html)
 
-1.[http://www.diveintopython.net/toc/index.html](http://www.diveintopython.net/toc/index.html)
-
-2.A detailed tutorial
-
-[http://learnpythonthehardway.org/book/](http://learnpythonthehardway.org/book/)
+2. A detailed tutorial [http://learnpythonthehardway.org/book/](http://learnpythonthehardway.org/book/)
 
  
