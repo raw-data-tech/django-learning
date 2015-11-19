@@ -7,6 +7,7 @@
 6. Expose the polls of the tutorial as JSON using Django [REST Framework](http://www.django-rest-framework.org/tutorial/quickstart/)
 7. [Simple example for JSON API view using Django REST API](http://agiliq.com/blog/2014/12/building-a-restful-api-with-django-rest-framework/)
 8. Install [Django Boiler Plate](https://github.com/arunghosh/django-boilerplate) and make it working locally
+9. [Git basics for beginners](http://rogerdudler.github.io/git-guide/)
 
 # Coding Guidelines
 1. [PEP8](https://www.python.org/dev/peps/pep-0008/). Use the [python package](https://github.com/jcrocholl/pep8) to ensure confirmation to PEP8
