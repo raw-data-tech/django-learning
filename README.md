@@ -1,5 +1,6 @@
 # Training
 1. [Python Basics](http://openbookproject.net/thinkcs/python/english2e/)
+ 1. [Decorators](http://simeonfranklin.com/blog/2012/jul/1/python-decorators-in-12-steps/)
 2. Install [VirtualWrapper](http://virtualenvwrapper.readthedocs.org/en/latest/) and use it for managing Python virtual environment 
 3. Install PEP8(https://github.com/jcrocholl/pep8) package & run it against the code you write
 4. Complete [Django Official Tutorial](https://docs.djangoproject.com/en/1.8/intro/tutorial01/)
