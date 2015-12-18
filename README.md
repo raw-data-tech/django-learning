@@ -17,7 +17,7 @@
 4. [REST Api Design](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)
 5. [Django Design Philosphies](https://docs.djangoproject.com/en/1.8/misc/design-philosophies/)
 6. [REST Worst practises](http://jacobian.org/writing/rest-worst-practices/)
-
+7. [General coding conventions and practises](https://docs.google.com/document/d/1XKNvSlO9qBMJS5lUZ4H5XbcvJFFuaZj5oYFSl89s_kU/edit?usp=sharing)
 
 # Study Materials
 1. Django Official Documentation
