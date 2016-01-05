@@ -18,6 +18,7 @@
 5. [Django Design Philosphies](https://docs.djangoproject.com/en/1.8/misc/design-philosophies/)
 6. [REST Worst practises](http://jacobian.org/writing/rest-worst-practices/)
 7. [General coding conventions and practises](https://docs.google.com/document/d/1XKNvSlO9qBMJS5lUZ4H5XbcvJFFuaZj5oYFSl89s_kU/edit?usp=sharing)
+8. [Commenting](http://stackoverflow.com/questions/2357230/what-is-the-proper-way-to-comment-functions-in-python)
 
 # Study Materials
 1. Django Official Documentation
