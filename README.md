@@ -38,11 +38,13 @@
 
 
 **Django testing**
+
 1. Simple tutorial [https://docs.djangoproject.com/en/1.8/intro/tutorial05/](https://docs.djangoproject.com/en/1.8/intro/tutorial05/)
 2. A bit outdated but a good tutorial [http://www.tdd-django-tutorial.com/](http://www.tdd-django-tutorial.com/)
 3. Official documentation(must read) [https://docs.djangoproject.com/en/1.8/topics/testing/](https://docs.djangoproject.com/en/1.8/topics/testing/)
 
 **Django Rest API Testing**
+
 1. Official reference [http://www.django-rest-framework.org/api-guide/testing/](http://www.django-rest-framework.org/api-guide/testing/)
 2. Source code [https://github.com/tomchristie/django-rest-framework/blob/master/rest_framework/test.py](https://github.com/tomchristie/django-rest-framework/blob/master/rest_framework/test.py)
 3. REST Api Design [http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api#restful)
