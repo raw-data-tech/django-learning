@@ -32,6 +32,7 @@
 1. [https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/](https://realpython.com/blog/python/testing-in-django-part-1-best-practices-and-examples/)
 
 **Selenium based UI Testing**
+
 1. Tutorial and documentation [http://selenium-python.readthedocs.org/](http://selenium-python.readthedocs.org/)
 2. A simple example [http://agiliq.com/blog/2014/09/selenium-testing/](http://agiliq.com/blog/2014/09/selenium-testing/)
 3. Official documentation [http://www.seleniumhq.org/docs/](http://www.seleniumhq.org/docs/)
